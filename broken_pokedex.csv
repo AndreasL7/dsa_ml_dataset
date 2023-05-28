@@ -1,0 +1,201 @@
+name,pokemon,pokedex.number,abilities,weight%kg,classification,hp,attack,defense,speed,type1,type2,generation,is legendary,time$captured
+Pangoro,https://www.serebii.net/pokedex-swsh/icon/675.png,675,"['Iron Fist', 'Mold Breaker', 'Scrappy']",136.0,Daunting Pokémon,95,124,78,58.0,fighting,dark,6,0,11/11/2022 12:35 AM
+Pancham,https://www.serebii.net/pokedex-swsh/icon/674.png,674,"['Iron Fist', 'Mold Breaker', 'Scrappy']",8.0,Playful Pokémon,67,82,62,43.0,fighting,,6,0,08/18/2022 09:07 PM
+Igglybuff,https://www.serebii.net/pokedex-swsh/icon/174.png,174,"['Cute Charm', 'Competitive', 'Friend Guard']",1.0,Balloon Pokémon,90,30,15,15.0,normal,fairy,2 Johto,0,11/08/2022 10:16 PM
+Corsola,https://www.serebii.net/pokedex-swsh/icon/222.png,222,"['Hustle', 'Natural Cure', 'Regenerator']",5.0,Coral Pokémon,65,55,95,35.0,water,rock,2 Johto,0,07/24/2020 08:10 PM
+Manaphy,https://www.serebii.net/pokedex-swsh/icon/490.png,490,['Hydration'],1.4,Seafaring Pokémon,100,100,100,100.0,water,,4 Sinnoh,1,09/19/2021 09:29 PM
+Meganium,https://www.serebii.net/pokedex-swsh/icon/154.png,154,"['Overgrow', 'Leaf Guard']",100.5,Herb Pokémon,80,82,100,,grass,,2 Johto,0,01/22/2020 12:36 AM
+Mismagius,https://www.serebii.net/pokedex-swsh/icon/429.png,429,['Levitate'],4.4,Magical Pokémon,60,60,60,,ghost,,4 Sinnoh,0,06/16/2021 01:23 AM
+Trevenant,https://www.serebii.net/pokedex-swsh/icon/709.png,709,"['Natural Cure', 'Frisk', 'Harvest']",71.0,Elder Tree Pokémon,85,110,76,56.0,ghost,grass,6,0,11/25/2021 11:38 AM
+Sudowoodo,https://www.serebii.net/pokedex-swsh/icon/185.png,185,"['Sturdy', 'Rock Head', 'Rattled']",38.0,Imitation Pokémon,70,100,115,30.0,rock,,2 Johto,0,10/10/2020 04:32 AM
+Totodile,https://www.serebii.net/pokedex-swsh/icon/158.png,158,"['Torrent', 'Sheer Force']",9.5,Big Jaw Pokémon,50,65,64,43.0,water,,2 Johto,0,12/03/2022 07:33 AM
+Duosion,https://www.serebii.net/pokedex-swsh/icon/578.png,578,"['Overcoat', 'Magic Guard', 'Regenerator']",8.0,Mitosis Pokémon,65,40,50,30.0,psychic,,5 Unova,0,06/21/2020 10:49 PM
+Remoraid,https://www.serebii.net/pokedex-swsh/icon/223.png,223,"['Hustle', 'Sniper', 'Moody']",12.0,Jet Pokémon,35,65,35,65.0,water,,2 Johto,0,04/07/2021 02:34 AM
+Heatmor,https://www.serebii.net/pokedex-swsh/icon/631.png,631,"['Gluttony', 'Flash Fire', 'White Smoke']",58.0,Anteater Pokémon,85,97,66,65.0,fire,,5 Unova,0,08/18/2022 03:00 PM
+Leafeon,https://www.serebii.net/pokedex-swsh/icon/470.png,470,"['Leaf Guard', 'Chlorophyll']",25.5,Verdant Pokémon,65,110,130,95.0,grass,,4 Sinnoh,0,01/14/2021 05:34 AM
+Murkrow,https://www.serebii.net/pokedex-swsh/icon/198.png,198,"['Insomnia', 'Super Luck', 'Prankster']",2.1,Darkness Pokémon,60,85,42,91.0,dark,flying,2 Johto,0,07/18/2020 10:38 AM
+Tentacruel,https://www.serebii.net/pokedex-swsh/icon/073.png,73,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",55.0,Jellyfish Pokémon,80,70,65,100.0,water,poison,1,0,07/15/2022 08:22 PM
+Golurk,https://www.serebii.net/pokedex-swsh/icon/623.png,623,"['Iron Fist', 'Klutz', 'No Guard']",330.0,Automaton Pokémon,89,124,80,55.0,ground,ghost,5 Unova,0,11/28/2020 10:08 PM
+Zubat,https://www.serebii.net/pokedex-swsh/icon/041.png,41,"['Inner Focus', 'Infiltrator']",7.5,Bat Pokémon,40,45,35,55.0,poison,flying,1,0,04/13/2020 06:47 AM
+Pichu,https://www.serebii.net/pokedex-swsh/icon/172.png,172,"['Static', 'Lightningrod']",2.0,Tiny Mouse Pokémon,20,40,15,60.0,electric,,2 Johto,0,04/07/2021 11:22 PM
+Bouffalant,https://www.serebii.net/pokedex-swsh/icon/626.png,626,"['Reckless', 'Sap Sipper', 'Soundproof']",94.6,Bash Buffalo Pokémon,95,110,95,55.0,normal,,5 Unova,0,03/16/2022 06:41 AM
+Slaking,https://www.serebii.net/pokedex-swsh/icon/289.png,289,['Truant'],130.5,Lazy Pokémon,150,160,100,100.0,normal,,3,0,09/18/2022 07:26 PM
+Swadloon,https://www.serebii.net/pokedex-swsh/icon/541.png,541,"['Leaf Guard', 'Chlorophyll', 'Overcoat']",7.3,Leaf-Wrapped Pokémon,55,63,90,42.0,bug,grass,5 Unova,0,08/10/2021 04:46 AM
+Cofagrigus,https://www.serebii.net/pokedex-swsh/icon/563.png,563,['Mummy'],76.5,Coffin Pokémon,58,50,145,30.0,ghost,,5 Unova,0,01/22/2022 08:18 AM
+Vaporeon,https://www.serebii.net/pokedex-swsh/icon/134.png,134,"['Water Absorb', 'Hydration']",29.0,Bubble Jet Pokémon,130,65,60,65.0,water,,1,0,09/20/2021 07:40 PM
+Zangoose,https://www.serebii.net/pokedex-swsh/icon/335.png,335,"['Immunity', 'Toxic Boost']",40.3,Cat Ferret Pokémon,73,115,60,90.0,normal,,3,0,08/03/2022 01:23 PM
+Patrat,https://www.serebii.net/pokedex-swsh/icon/504.png,504,"['Run Away', 'Keen Eye', 'Analytic']",11.6,Scout Pokémon,45,55,39,42.0,normal,,5 Unova,0,08/02/2022 01:16 PM
+Wormadam,https://www.serebii.net/pokedex-swsh/icon/413.png,413,"['Anticipation', 'Overcoat']",6.5,Bagworm Pokémon,60,69,95,36.0,bug,grass,4 Sinnoh,0,06/27/2020 03:34 AM
+Magearna,https://www.serebii.net/pokedex-swsh/icon/801.png,801,['Soul-Heart'],80.5,Artificial Pokémon,80,95,115,65.0,steel,fairy,7,1,02/26/2020 03:07 AM
+Cacnea,https://www.serebii.net/pokedex-swsh/icon/331.png,331,"['Sand Veil', 'Water Absorb']",51.3,Cactus Pokémon,50,85,40,35.0,grass,,3,0,12/14/2022 08:52 PM
+Vaporeon,https://www.serebii.net/pokedex-swsh/icon/134.png,134,"['Water Absorb', 'Hydration']",29.0,Bubble Jet Pokémon,130,65,60,65.0,water,,1,0,06/29/2021 06:28 PM
+Krabby,https://www.serebii.net/pokedex-swsh/icon/098.png,98,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",6.5,River Crab Pokémon,30,105,90,50.0,water,,1,0,07/25/2021 09:37 AM
+Foongus,https://www.serebii.net/pokedex-swsh/icon/590.png,590,"['Effect Spore', 'Regenerator']",1.0,Mushroom Pokémon,69,55,45,15.0,grass,poison,5 Unova,0,09/23/2022 05:38 AM
+Typhlosion,https://www.serebii.net/pokedex-swsh/icon/157.png,157,"['Blaze', 'Flash Fire']",79.5,Volcano Pokémon,78,84,78,100.0,fire,,2 Johto,0,12/21/2020 06:59 PM
+Vanillite,https://www.serebii.net/pokedex-swsh/icon/582.png,582,"['Ice Body', 'Snow Cloak', 'Weak Armor']",5.7,Fresh Snow Pokémon,36,50,50,44.0,ice,,5 Unova,0,12/14/2020 11:30 AM
+Wobbuffet,https://www.serebii.net/pokedex-swsh/icon/202.png,202,"['Shadow Tag', 'Telepathy']",28.5,Patient Pokémon,190,33,58,33.0,psychic,,2 Johto,0,02/13/2020 12:20 PM
+Wishiwashi,https://www.serebii.net/pokedex-swsh/icon/746.png,746,['Schooling'],0.3,Small Fry Pokémon,45,140,130,30.0,water,,7,0,03/25/2020 02:09 PM
+Zangoose,https://www.serebii.net/pokedex-swsh/icon/335.png,335,"['Immunity', 'Toxic Boost']",40.3,Cat Ferret Pokémon,73,115,60,90.0,normal,,3,0,10/07/2022 05:15 AM
+Gurdurr,https://www.serebii.net/pokedex-swsh/icon/533.png,533,"['Guts', 'Sheer Force', 'Iron Fist']",40.0,Muscular Pokémon,85,105,85,40.0,fighting,,5 Unova,0,01/27/2022 04:58 PM
+Sigilyph,https://www.serebii.net/pokedex-swsh/icon/561.png,561,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",14.0,Avianoid Pokémon,72,58,80,97.0,psychic,flying,5 Unova,0,08/25/2022 12:05 PM
+Raticate,https://www.serebii.net/pokedex-swsh/icon/020.png,20,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",,Mouse Pokémon,75,71,70,77.0,normal,dark,1,0,12/20/2021 01:47 PM
+Duosion,https://www.serebii.net/pokedex-swsh/icon/578.png,578,"['Overcoat', 'Magic Guard', 'Regenerator']",8.0,Mitosis Pokémon,65,40,50,30.0,psychic,,5 Unova,0,06/14/2020 07:33 AM
+Abomasnow,https://www.serebii.net/pokedex-swsh/icon/460.png,460,"['Snow Warning', 'Soundproof']",135.5,Frosted Tree Pokémon,90,132,105,30.0,grass,ice,4 Sinnoh,0,05/19/2021 06:50 AM
+Wingull,https://www.serebii.net/pokedex-swsh/icon/278.png,278,"['Keen Eye', 'Hydration', 'Rain Dish']",9.5,Seagull Pokémon,40,30,30,85.0,water,flying,3,0,03/29/2020 02:21 AM
+Typhlosion,https://www.serebii.net/pokedex-swsh/icon/157.png,157,"['Blaze', 'Flash Fire']",79.5,Volcano Pokémon,78,84,78,100.0,fire,,2 Johto,0,12/05/2022 10:32 AM
+Kingler,https://www.serebii.net/pokedex-swsh/icon/099.png,99,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",60.0,Pincer Pokémon,55,130,115,75.0,water,,1,0,04/18/2022 09:27 PM
+Sigilyph,https://www.serebii.net/pokedex-swsh/icon/561.png,561,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",14.0,Avianoid Pokémon,72,58,80,97.0,psychic,flying,5 Unova,0,10/02/2020 10:37 PM
+Trevenant,https://www.serebii.net/pokedex-swsh/icon/709.png,709,"['Natural Cure', 'Frisk', 'Harvest']",71.0,Elder Tree Pokémon,85,110,76,56.0,ghost,grass,6,0,04/06/2020 09:49 PM
+Garbodor,https://www.serebii.net/pokedex-swsh/icon/569.png,569,"['Stench', 'Weak Armor', 'Aftermath']",107.3,Trash Heap Pokémon,80,95,82,75.0,poison,,5 Unova,0,11/11/2022 03:14 PM
+Gothita,https://www.serebii.net/pokedex-swsh/icon/574.png,574,"['Frisk', 'Competitive', 'Shadow Tag']",5.8,Fixation Pokémon,45,30,50,45.0,psychic,,5 Unova,0,06/09/2022 02:41 PM
+Kingler,https://www.serebii.net/pokedex-swsh/icon/099.png,99,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",60.0,Pincer Pokémon,55,130,115,75.0,water,,1,0,11/14/2021 05:59 AM
+Wynaut,https://www.serebii.net/pokedex-swsh/icon/360.png,360,"['Shadow Tag', 'Telepathy']",14.0,Bright Pokémon,95,23,48,23.0,psychic,,3,0,03/30/2021 09:46 AM
+Venomoth,https://www.serebii.net/pokedex-swsh/icon/049.png,49,"['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",12.5,Poison Moth Pokémon,70,65,60,90.0,bug,poison,1,0,02/05/2021 04:26 AM
+Magcargo,https://www.serebii.net/pokedex-swsh/icon/219.png,219,"['Magma Armor', 'Flame Body', 'Weak Armor']",55.0,Lava Pokémon,60,50,120,30.0,fire,rock,2 Johto,0,05/03/2021 05:44 PM
+Togetic,https://www.serebii.net/pokedex-swsh/icon/176.png,176,"['Hustle', 'Serene Grace', 'Super Luck']",3.2,Happiness Pokémon,55,40,85,40.0,fairy,flying,2 Johto,0,03/05/2022 08:51 PM
+Gothorita,https://www.serebii.net/pokedex-swsh/icon/575.png,575,"['Frisk', 'Competitive', 'Shadow Tag']",18.0,Manipulate Pokémon,60,45,70,55.0,psychic,,5 Unova,0,08/20/2022 05:01 PM
+Cofagrigus,https://www.serebii.net/pokedex-swsh/icon/563.png,563,['Mummy'],76.5,Coffin Pokémon,58,50,145,30.0,ghost,,5 Unova,0,07/26/2021 02:45 PM
+Murkrow,https://www.serebii.net/pokedex-swsh/icon/198.png,198,"['Insomnia', 'Super Luck', 'Prankster']",2.1,Darkness Pokémon,60,85,42,91.0,dark,flying,2 Johto,0,03/01/2022 02:27 AM
+Gothita,https://www.serebii.net/pokedex-swsh/icon/574.png,574,"['Frisk', 'Competitive', 'Shadow Tag']",5.8,Fixation Pokémon,45,30,50,45.0,psychic,,5 Unova,0,08/08/2020 11:01 AM
+Plusle,https://www.serebii.net/pokedex-swsh/icon/311.png,311,"['Plus', 'Lightningrod']",4.2,Cheering Pokémon,60,50,40,95.0,electric,,3,0,09/05/2022 06:38 PM
+Vivillon,https://www.serebii.net/pokedex-swsh/icon/666.png,666,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",17.0,Scale Pokémon,80,52,50,89.0,bug,flying,6,0,10/25/2021 02:56 PM
+Unown,https://www.serebii.net/pokedex-swsh/icon/201.png,201,['Levitate'],5.0,Symbol Pokémon,48,72,48,48.0,psychic,,2 Johto,0,03/17/2022 02:36 PM
+Duosion,https://www.serebii.net/pokedex-swsh/icon/578.png,578,"['Overcoat', 'Magic Guard', 'Regenerator']",8.0,Mitosis Pokémon,65,40,50,30.0,psychic,,5 Unova,0,06/18/2021 08:28 AM
+Landorus,https://www.serebii.net/pokedex-swsh/icon/645.png,645,"['Sand Force', 'Sheer Force', 'Intimidate']",68.0,Abundance Pokémon,89,145,90,91.0,ground,flying,5 Unova,1,08/06/2022 04:10 PM
+Dustox,https://www.serebii.net/pokedex-swsh/icon/269.png,269,"['Shield Dust', 'Compoundeyes']",31.6,Poison Moth Pokémon,60,50,70,65.0,bug,poison,3,0,08/02/2022 12:43 AM
+Wobbuffet,https://www.serebii.net/pokedex-swsh/icon/202.png,202,"['Shadow Tag', 'Telepathy']",28.5,Patient Pokémon,190,33,58,33.0,psychic,,2 Johto,0,03/08/2021 08:28 PM
+Cofagrigus,https://www.serebii.net/pokedex-swsh/icon/563.png,563,['Mummy'],76.5,Coffin Pokémon,58,50,145,30.0,ghost,,5 Unova,0,11/19/2022 12:06 PM
+Sudowoodo,https://www.serebii.net/pokedex-swsh/icon/185.png,185,"['Sturdy', 'Rock Head', 'Rattled']",38.0,Imitation Pokémon,70,100,115,30.0,rock,,2 Johto,0,07/28/2022 03:50 PM
+Abomasnow,https://www.serebii.net/pokedex-swsh/icon/460.png,460,"['Snow Warning', 'Soundproof']",135.5,Frosted Tree Pokémon,90,132,105,30.0,grass,ice,4 Sinnoh,0,01/09/2021 10:37 PM
+Sigilyph,https://www.serebii.net/pokedex-swsh/icon/561.png,561,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",14.0,Avianoid Pokémon,72,58,80,97.0,psychic,flying,5 Unova,0,01/13/2022 03:47 AM
+Typhlosion,https://www.serebii.net/pokedex-swsh/icon/157.png,157,"['Blaze', 'Flash Fire']",79.5,Volcano Pokémon,78,84,78,100.0,fire,,2 Johto,0,01/23/2020 08:10 AM
+Litten,https://www.serebii.net/pokedex-swsh/icon/725.png,725,"['Blaze', 'Intimidate']",4.3,Fire Cat Pokémon,45,65,40,70.0,fire,,7,0,12/15/2022 07:41 AM
+Flabébé,https://www.serebii.net/pokedex-swsh/icon/669.png,669,"['Flower Veil', 'Symbiosis']",0.1,Single Bloom Pokémon,44,38,39,42.0,fairy,,6,0,05/07/2021 10:44 PM
+Kingler,https://www.serebii.net/pokedex-swsh/icon/099.png,99,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",60.0,Pincer Pokémon,55,130,115,75.0,water,,1,0,11/10/2022 12:36 PM
+Sigilyph,https://www.serebii.net/pokedex-swsh/icon/561.png,561,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",14.0,Avianoid Pokémon,72,58,80,97.0,psychic,flying,5 Unova,0,03/12/2022 06:35 PM
+Magmar,https://www.serebii.net/pokedex-swsh/icon/126.png,126,"['Flame Body', 'Vital Spirit']",44.5,Spitfire Pokémon,65,95,57,93.0,fire,,1,0,12/09/2022 03:06 AM
+Cofagrigus,https://www.serebii.net/pokedex-swsh/icon/563.png,563,['Mummy'],76.5,Coffin Pokémon,58,50,145,30.0,ghost,,5 Unova,0,07/17/2020 07:30 PM
+Wurmple,https://www.serebii.net/pokedex-swsh/icon/265.png,265,"['Shield Dust', 'Run Away']",3.6,Worm Pokémon,45,45,35,20.0,bug,,3,0,05/27/2022 02:43 PM
+Starly,https://www.serebii.net/pokedex-swsh/icon/396.png,396,"['Keen Eye', 'Reckless']",2.0,Starling Pokémon,40,55,30,60.0,normal,flying,4 Sinnoh,0,08/19/2021 05:44 PM
+Slaking,https://www.serebii.net/pokedex-swsh/icon/289.png,289,['Truant'],130.5,Lazy Pokémon,150,160,100,100.0,normal,,3,0,08/15/2021 04:48 PM
+Abomasnow,https://www.serebii.net/pokedex-swsh/icon/460.png,460,"['Snow Warning', 'Soundproof']",135.5,Frosted Tree Pokémon,90,132,105,30.0,grass,ice,4 Sinnoh,0,11/09/2022 05:27 AM
+Corsola,https://www.serebii.net/pokedex-swsh/icon/222.png,222,"['Hustle', 'Natural Cure', 'Regenerator']",5.0,Coral Pokémon,65,55,95,35.0,water,rock,2 Johto,0,05/01/2020 08:25 AM
+Sigilyph,https://www.serebii.net/pokedex-swsh/icon/561.png,561,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",14.0,Avianoid Pokémon,72,58,80,97.0,psychic,flying,5 Unova,0,07/02/2020 05:41 AM
+Haxorus,https://www.serebii.net/pokedex-swsh/icon/612.png,612,"['Rivalry', 'Mold Breaker', 'Unnerve']",105.5,Axe Jaw Pokémon,76,147,90,97.0,dragon,,5 Unova,0,12/21/2020 05:51 AM
+Cofagrigus,https://www.serebii.net/pokedex-swsh/icon/563.png,563,['Mummy'],76.5,Coffin Pokémon,58,50,145,30.0,ghost,,5 Unova,0,12/30/2021 08:58 AM
+Raticate,https://www.serebii.net/pokedex-swsh/icon/020.png,20,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",,Mouse Pokémon,75,71,70,77.0,normal,dark,1,0,01/12/2021 10:46 PM
+Flabébé,https://www.serebii.net/pokedex-swsh/icon/669.png,669,"['Flower Veil', 'Symbiosis']",0.1,Single Bloom Pokémon,44,38,39,42.0,fairy,,6,0,04/06/2021 12:39 AM
+Espeon,https://www.serebii.net/pokedex-swsh/icon/196.png,196,"['Synchronize', 'Magic Bounce']",26.5,Sun Pokémon,65,65,60,110.0,psychic,,2 Johto,0,10/10/2020 06:29 AM
+Murkrow,https://www.serebii.net/pokedex-swsh/icon/198.png,198,"['Insomnia', 'Super Luck', 'Prankster']",2.1,Darkness Pokémon,60,85,42,91.0,dark,flying,2 Johto,0,10/23/2021 08:39 PM
+Krabby,https://www.serebii.net/pokedex-swsh/icon/098.png,98,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",6.5,River Crab Pokémon,30,105,90,50.0,water,,1,0,03/16/2020 06:05 PM
+Tentacruel,https://www.serebii.net/pokedex-swsh/icon/073.png,73,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",55.0,Jellyfish Pokémon,80,70,65,100.0,water,poison,1,0,05/19/2020 11:09 PM
+Trevenant,https://www.serebii.net/pokedex-swsh/icon/709.png,709,"['Natural Cure', 'Frisk', 'Harvest']",71.0,Elder Tree Pokémon,85,110,76,56.0,ghost,grass,6,0,12/06/2020 06:21 AM
+Remoraid,https://www.serebii.net/pokedex-swsh/icon/223.png,223,"['Hustle', 'Sniper', 'Moody']",12.0,Jet Pokémon,35,65,35,65.0,water,,2 Johto,0,08/25/2020 10:40 PM
+Golbat,https://www.serebii.net/pokedex-swsh/icon/042.png,42,"['Inner Focus', 'Infiltrator']",55.0,Bat Pokémon,75,80,70,90.0,poison,flying,1,0,02/17/2021 01:37 AM
+Golbat,https://www.serebii.net/pokedex-swsh/icon/042.png,42,"['Inner Focus', 'Infiltrator']",55.0,Bat Pokémon,75,80,70,90.0,poison,flying,1,0,10/20/2021 07:56 AM
+Raticate,https://www.serebii.net/pokedex-swsh/icon/020.png,20,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",,Mouse Pokémon,75,71,70,77.0,normal,dark,1,0,04/25/2020 01:57 PM
+Leafeon,https://www.serebii.net/pokedex-swsh/icon/470.png,470,"['Leaf Guard', 'Chlorophyll']",25.5,Verdant Pokémon,65,110,130,95.0,grass,,4 Sinnoh,0,08/23/2021 07:48 AM
+Swadloon,https://www.serebii.net/pokedex-swsh/icon/541.png,541,"['Leaf Guard', 'Chlorophyll', 'Overcoat']",7.3,Leaf-Wrapped Pokémon,55,63,90,42.0,bug,grass,5 Unova,0,09/13/2021 11:50 AM
+Slaking,https://www.serebii.net/pokedex-swsh/icon/289.png,289,['Truant'],130.5,Lazy Pokémon,150,160,100,100.0,normal,,3,0,08/04/2022 12:24 PM
+Lucario,https://www.serebii.net/pokedex-swsh/icon/448.png,448,"['Steadfast', 'Inner Focus', 'Justified']",54.0,Aura Pokémon,70,145,88,112.0,fighting,steel,4 Sinnoh,0,08/20/2021 09:56 PM
+Cosmoem,https://www.serebii.net/pokedex-swsh/icon/790.png,790,['Sturdy'],999.9,Protostar Pokémon,43,29,131,37.0,psychic,,7,1,03/08/2021 12:30 PM
+Feraligatr,https://www.serebii.net/pokedex-swsh/icon/160.png,160,"['Torrent', 'Sheer Force']",88.8,Big Jaw Pokémon,85,105,100,78.0,water,,2 Johto,0,04/02/2021 08:15 AM
+Geodude,https://www.serebii.net/pokedex-swsh/icon/074.png,74,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",,Rock Pokémon,40,80,100,20.0,rock,ground,1,0,01/29/2020 12:26 PM
+Pikachu,https://www.serebii.net/pokedex-swsh/icon/025.png,25,"['Static', 'Lightningrod']",6.0,Mouse Pokémon,35,55,40,90.0,electric,,1,0,01/14/2020 08:54 AM
+Palossand,https://www.serebii.net/pokedex-swsh/icon/770.png,770,"['Water Compaction', 'Sand Veil']",250.0,Sand Castle Pokémon,85,75,110,35.0,ghost,ground,7,0,09/09/2021 02:14 PM
+Golurk,https://www.serebii.net/pokedex-swsh/icon/623.png,623,"['Iron Fist', 'Klutz', 'No Guard']",330.0,Automaton Pokémon,89,124,80,55.0,ground,ghost,5 Unova,0,09/15/2020 02:25 AM
+Swampert,https://www.serebii.net/pokedex-swsh/icon/260.png,260,"['Torrent', 'Damp']",81.9,Mud Fish Pokémon,100,150,110,70.0,water,ground,3,0,12/24/2022 12:55 PM
+Slugma,https://www.serebii.net/pokedex-swsh/icon/218.png,218,"['Magma Armor', 'Flame Body', 'Weak Armor']",35.0,Lava Pokémon,40,40,40,20.0,fire,,2 Johto,0,05/25/2021 10:10 AM
+Murkrow,https://www.serebii.net/pokedex-swsh/icon/198.png,198,"['Insomnia', 'Super Luck', 'Prankster']",2.1,Darkness Pokémon,60,85,42,91.0,dark,flying,2 Johto,0,08/05/2022 02:23 AM
+Garbodor,https://www.serebii.net/pokedex-swsh/icon/569.png,569,"['Stench', 'Weak Armor', 'Aftermath']",107.3,Trash Heap Pokémon,80,95,82,75.0,poison,,5 Unova,0,03/03/2021 06:30 AM
+Cascoon,https://www.serebii.net/pokedex-swsh/icon/268.png,268,['Shed Skin'],11.5,Cocoon Pokémon,50,35,55,15.0,bug,,3,0,10/27/2021 03:07 AM
+Feraligatr,https://www.serebii.net/pokedex-swsh/icon/160.png,160,"['Torrent', 'Sheer Force']",88.8,Big Jaw Pokémon,85,105,100,78.0,water,,2 Johto,0,05/23/2021 06:26 AM
+Aegislash,https://www.serebii.net/pokedex-swsh/icon/681.png,681,['Stance Change'],53.0,Royal Sword Pokémon,60,150,50,60.0,steel,ghost,6,0,01/09/2020 12:58 AM
+Skorupi,https://www.serebii.net/pokedex-swsh/icon/451.png,451,"['Battle Armor', 'Sniper', 'Keen Eye']",12.0,Scorpion Pokémon,40,50,90,65.0,poison,bug,4 Sinnoh,0,01/30/2020 12:46 PM
+Grovyle,https://www.serebii.net/pokedex-swsh/icon/253.png,253,"['Overgrow', 'Unburden']",21.6,Wood Gecko Pokémon,50,65,45,95.0,grass,,3,0,05/31/2021 03:39 PM
+Murkrow,https://www.serebii.net/pokedex-swsh/icon/198.png,198,"['Insomnia', 'Super Luck', 'Prankster']",2.1,Darkness Pokémon,60,85,42,91.0,dark,flying,2 Johto,0,01/27/2022 04:17 AM
+Skorupi,https://www.serebii.net/pokedex-swsh/icon/451.png,451,"['Battle Armor', 'Sniper', 'Keen Eye']",12.0,Scorpion Pokémon,40,50,90,65.0,poison,bug,4 Sinnoh,0,08/24/2020 03:47 AM
+Mewtwo,https://www.serebii.net/pokedex-swsh/icon/150.png,150,"['Pressure', 'Unnerve']",122.0,Genetic Pokémon,106,150,70,140.0,psychic,,1,1,12/31/2021 01:17 AM
+Golurk,https://www.serebii.net/pokedex-swsh/icon/623.png,623,"['Iron Fist', 'Klutz', 'No Guard']",330.0,Automaton Pokémon,89,124,80,55.0,ground,ghost,5 Unova,0,12/20/2020 02:51 PM
+Dustox,https://www.serebii.net/pokedex-swsh/icon/269.png,269,"['Shield Dust', 'Compoundeyes']",31.6,Poison Moth Pokémon,60,50,70,65.0,bug,poison,3,0,08/28/2021 05:58 AM
+Stantler,https://www.serebii.net/pokedex-swsh/icon/234.png,234,"['Intimidate', 'Frisk', 'Sap Sipper']",71.2,Big Horn Pokémon,73,95,62,85.0,normal,,2 Johto,0,05/28/2021 02:43 PM
+Golbat,https://www.serebii.net/pokedex-swsh/icon/042.png,42,"['Inner Focus', 'Infiltrator']",55.0,Bat Pokémon,75,80,70,90.0,poison,flying,1,0,02/14/2022 02:57 AM
+Litten,https://www.serebii.net/pokedex-swsh/icon/725.png,725,"['Blaze', 'Intimidate']",4.3,Fire Cat Pokémon,45,65,40,70.0,fire,,7,0,09/04/2020 02:51 PM
+Zangoose,https://www.serebii.net/pokedex-swsh/icon/335.png,335,"['Immunity', 'Toxic Boost']",40.3,Cat Ferret Pokémon,73,115,60,90.0,normal,,3,0,12/26/2022 05:28 PM
+Dustox,https://www.serebii.net/pokedex-swsh/icon/269.png,269,"['Shield Dust', 'Compoundeyes']",31.6,Poison Moth Pokémon,60,50,70,65.0,bug,poison,3,0,09/06/2020 09:44 PM
+Sentret,https://www.serebii.net/pokedex-swsh/icon/161.png,161,"['Run Away', 'Keen Eye', 'Frisk']",6.0,Scout Pokémon,35,46,34,20.0,normal,,2 Johto,0,09/21/2021 08:09 AM
+Aegislash,https://www.serebii.net/pokedex-swsh/icon/681.png,681,['Stance Change'],53.0,Royal Sword Pokémon,60,150,50,60.0,steel,ghost,6,0,11/28/2022 04:10 AM
+Crabominable,https://www.serebii.net/pokedex-swsh/icon/740.png,740,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",180.0,Woolly Crab Pokémon,97,132,77,43.0,fighting,ice,7,0,10/29/2022 01:02 PM
+Kecleon,https://www.serebii.net/pokedex-swsh/icon/352.png,352,"['Color Change', 'Protean']",22.0,Color Swap Pokémon,60,90,70,40.0,normal,,3,0,03/18/2021 07:21 PM
+Grovyle,https://www.serebii.net/pokedex-swsh/icon/253.png,253,"['Overgrow', 'Unburden']",21.6,Wood Gecko Pokémon,50,65,45,95.0,grass,,3,0,01/08/2021 04:07 PM
+Grumpig,https://www.serebii.net/pokedex-swsh/icon/326.png,326,"['Thick Fat', 'Own Tempo', 'Gluttony']",71.5,Manipulate Pokémon,80,45,65,80.0,psychic,,3,0,04/04/2022 03:19 PM
+Kangaskhan,https://www.serebii.net/pokedex-swsh/icon/115.png,115,"['Early Bird', 'Scrappy', 'Inner Focus']",80.0,Parent Pokémon,105,125,100,100.0,normal,,1,0,03/05/2022 07:14 PM
+Swampert,https://www.serebii.net/pokedex-swsh/icon/260.png,260,"['Torrent', 'Damp']",81.9,Mud Fish Pokémon,100,150,110,70.0,water,ground,3,0,09/03/2020 12:34 AM
+Popplio,https://www.serebii.net/pokedex-swsh/icon/728.png,728,"['Torrent', 'Liquid Voice']",7.5,Sea Lion Pokémon,50,54,54,40.0,water,,7,0,10/06/2022 12:09 PM
+Flabébé,https://www.serebii.net/pokedex-swsh/icon/669.png,669,"['Flower Veil', 'Symbiosis']",0.1,Single Bloom Pokémon,44,38,39,42.0,fairy,,6,0,12/15/2022 11:08 AM
+Jirachi,https://www.serebii.net/pokedex-swsh/icon/385.png,385,['Serene Grace'],1.1,Wish Pokémon,100,100,100,100.0,steel,psychic,3,1,04/24/2021 04:56 AM
+Foongus,https://www.serebii.net/pokedex-swsh/icon/590.png,590,"['Effect Spore', 'Regenerator']",1.0,Mushroom Pokémon,69,55,45,15.0,grass,poison,5 Unova,0,07/11/2022 03:36 AM
+Vanillite,https://www.serebii.net/pokedex-swsh/icon/582.png,582,"['Ice Body', 'Snow Cloak', 'Weak Armor']",5.7,Fresh Snow Pokémon,36,50,50,44.0,ice,,5 Unova,0,01/06/2021 06:09 PM
+Espeon,https://www.serebii.net/pokedex-swsh/icon/196.png,196,"['Synchronize', 'Magic Bounce']",26.5,Sun Pokémon,65,65,60,110.0,psychic,,2 Johto,0,03/02/2021 10:51 PM
+Leavanny,https://www.serebii.net/pokedex-swsh/icon/542.png,542,"['Swarm', 'Chlorophyll', 'Overcoat']",20.5,Nurturing Pokémon,75,103,80,92.0,bug,grass,5 Unova,0,07/19/2022 07:23 AM
+Gothita,https://www.serebii.net/pokedex-swsh/icon/574.png,574,"['Frisk', 'Competitive', 'Shadow Tag']",5.8,Fixation Pokémon,45,30,50,45.0,psychic,,5 Unova,0,01/27/2021 01:00 PM
+Spritzee,https://www.serebii.net/pokedex-swsh/icon/682.png,682,"['Healer', 'Aroma Veil']",0.5,Perfume Pokémon,78,52,60,23.0,fairy,,6,0,12/30/2020 02:39 PM
+Sableye,https://www.serebii.net/pokedex-swsh/icon/302.png,302,"['Keen Eye', 'Stall', 'Prankster']",11.0,Darkness Pokémon,50,85,125,20.0,dark,ghost,3,0,09/18/2021 07:27 PM
+Gligar,https://www.serebii.net/pokedex-swsh/icon/207.png,207,"['Hyper Cutter', 'Sand Veil', 'Immunity']",64.8,Flyscorpion Pokémon,65,75,105,85.0,ground,flying,2 Johto,0,07/07/2020 07:54 AM
+Swadloon,https://www.serebii.net/pokedex-swsh/icon/541.png,541,"['Leaf Guard', 'Chlorophyll', 'Overcoat']",7.3,Leaf-Wrapped Pokémon,55,63,90,42.0,bug,grass,5 Unova,0,08/15/2021 03:08 AM
+Cobalion,https://www.serebii.net/pokedex-swsh/icon/638.png,638,['Justified'],250.0,Iron Will Pokémon,91,90,129,108.0,steel,fighting,5 Unova,1,02/26/2021 08:19 PM
+Exeggcute,https://www.serebii.net/pokedex-swsh/icon/102.png,102,"['Chlorophyll', 'Harvest']",2.5,Egg Pokémon,60,40,80,40.0,grass,psychic,1,0,12/31/2020 04:39 AM
+Magcargo,https://www.serebii.net/pokedex-swsh/icon/219.png,219,"['Magma Armor', 'Flame Body', 'Weak Armor']",55.0,Lava Pokémon,60,50,120,30.0,fire,rock,2 Johto,0,12/12/2021 07:41 PM
+Krabby,https://www.serebii.net/pokedex-swsh/icon/098.png,98,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",6.5,River Crab Pokémon,30,105,90,50.0,water,,1,0,06/05/2021 12:57 AM
+Cascoon,https://www.serebii.net/pokedex-swsh/icon/268.png,268,['Shed Skin'],11.5,Cocoon Pokémon,50,35,55,15.0,bug,,3,0,07/25/2022 12:44 PM
+Heatran,https://www.serebii.net/pokedex-swsh/icon/485.png,485,"['Flash Fire', 'Flame Body']",430.0,Lava Dome Pokémon,91,90,106,77.0,fire,steel,4 Sinnoh,1,01/12/2020 09:06 PM
+Slugma,https://www.serebii.net/pokedex-swsh/icon/218.png,218,"['Magma Armor', 'Flame Body', 'Weak Armor']",35.0,Lava Pokémon,40,40,40,20.0,fire,,2 Johto,0,06/28/2021 11:59 PM
+Patrat,https://www.serebii.net/pokedex-swsh/icon/504.png,504,"['Run Away', 'Keen Eye', 'Analytic']",11.6,Scout Pokémon,45,55,39,42.0,normal,,5 Unova,0,12/06/2020 08:09 PM
+Raticate,https://www.serebii.net/pokedex-swsh/icon/020.png,20,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",,Mouse Pokémon,75,71,70,77.0,normal,dark,1,0,02/22/2020 07:46 PM
+Magmar,https://www.serebii.net/pokedex-swsh/icon/126.png,126,"['Flame Body', 'Vital Spirit']",44.5,Spitfire Pokémon,65,95,57,93.0,fire,,1,0,02/18/2022 06:58 PM
+Wingull,https://www.serebii.net/pokedex-swsh/icon/278.png,278,"['Keen Eye', 'Hydration', 'Rain Dish']",9.5,Seagull Pokémon,40,30,30,85.0,water,flying,3,0,05/12/2020 09:25 AM
+Gothorita,https://www.serebii.net/pokedex-swsh/icon/575.png,575,"['Frisk', 'Competitive', 'Shadow Tag']",18.0,Manipulate Pokémon,60,45,70,55.0,psychic,,5 Unova,0,09/20/2021 05:59 AM
+Dedenne,https://www.serebii.net/pokedex-swsh/icon/702.png,702,"['Cheek Pouch', 'Pickup', 'Plus']",2.2,Antenna Pokémon,67,58,57,101.0,electric,fairy,6,0,11/19/2021 07:40 AM
+Wobbuffet,https://www.serebii.net/pokedex-swsh/icon/202.png,202,"['Shadow Tag', 'Telepathy']",28.5,Patient Pokémon,190,33,58,33.0,psychic,,2 Johto,0,03/27/2021 01:55 PM
+Ursaring,https://www.serebii.net/pokedex-swsh/icon/217.png,217,"['Guts', 'Quick Feet', 'Unnerve']",125.8,Hibernator Pokémon,90,130,75,55.0,normal,,2 Johto,0,11/25/2020 01:57 PM
+Gligar,https://www.serebii.net/pokedex-swsh/icon/207.png,207,"['Hyper Cutter', 'Sand Veil', 'Immunity']",64.8,Flyscorpion Pokémon,65,75,105,85.0,ground,flying,2 Johto,0,11/22/2022 04:11 AM
+Wormadam,https://www.serebii.net/pokedex-swsh/icon/413.png,413,"['Anticipation', 'Overcoat']",6.5,Bagworm Pokémon,60,69,95,36.0,bug,grass,4 Sinnoh,0,11/25/2020 09:44 PM
+Cottonee,https://www.serebii.net/pokedex-swsh/icon/546.png,546,"['Prankster', 'Infiltrator', 'Chlorophyll']",0.6,Cotton Puff Pokémon,40,27,60,66.0,grass,fairy,5 Unova,0,10/15/2022 11:51 PM
+Kecleon,https://www.serebii.net/pokedex-swsh/icon/352.png,352,"['Color Change', 'Protean']",22.0,Color Swap Pokémon,60,90,70,40.0,normal,,3,0,11/18/2020 10:35 AM
+Pancham,https://www.serebii.net/pokedex-swsh/icon/674.png,674,"['Iron Fist', 'Mold Breaker', 'Scrappy']",8.0,Playful Pokémon,67,82,62,43.0,fighting,,6,0,10/12/2021 04:21 PM
+Regirock,https://www.serebii.net/pokedex-swsh/icon/377.png,377,"['Clear Body', 'Sturdy']",230.0,Rock Peak Pokémon,80,100,200,50.0,rock,,3,1,04/07/2020 07:21 AM
+Leavanny,https://www.serebii.net/pokedex-swsh/icon/542.png,542,"['Swarm', 'Chlorophyll', 'Overcoat']",20.5,Nurturing Pokémon,75,103,80,92.0,bug,grass,5 Unova,0,12/01/2020 08:21 AM
+Cascoon,https://www.serebii.net/pokedex-swsh/icon/268.png,268,['Shed Skin'],11.5,Cocoon Pokémon,50,35,55,15.0,bug,,3,0,11/02/2021 04:21 PM
+Igglybuff,https://www.serebii.net/pokedex-swsh/icon/174.png,174,"['Cute Charm', 'Competitive', 'Friend Guard']",1.0,Balloon Pokémon,90,30,15,15.0,normal,fairy,2 Johto,0,03/03/2021 06:38 PM
+Wishiwashi,https://www.serebii.net/pokedex-swsh/icon/746.png,746,['Schooling'],0.3,Small Fry Pokémon,45,140,130,30.0,water,,7,0,09/11/2021 12:42 AM
+Crabominable,https://www.serebii.net/pokedex-swsh/icon/740.png,740,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",180.0,Woolly Crab Pokémon,97,132,77,43.0,fighting,ice,7,0,09/04/2021 10:31 PM
+Mewtwo,https://www.serebii.net/pokedex-swsh/icon/150.png,150,"['Pressure', 'Unnerve']",122.0,Genetic Pokémon,106,150,70,140.0,psychic,,1,1,11/07/2020 09:57 PM
+Popplio,https://www.serebii.net/pokedex-swsh/icon/728.png,728,"['Torrent', 'Liquid Voice']",7.5,Sea Lion Pokémon,50,54,54,40.0,water,,7,0,05/26/2021 10:50 PM
+Wailord,https://www.serebii.net/pokedex-swsh/icon/321.png,321,"['Water Veil', 'Oblivious', 'Pressure']",398.0,Float Whale Pokémon,170,90,45,60.0,water,,3,0,07/29/2020 09:31 AM
+Metapod,https://www.serebii.net/pokedex-swsh/icon/011.png,11,['Shed Skin'],9.9,Cocoon Pokémon,50,20,55,30.0,bug,,1,0,11/01/2021 05:58 AM
+Vaporeon,https://www.serebii.net/pokedex-swsh/icon/134.png,134,"['Water Absorb', 'Hydration']",29.0,Bubble Jet Pokémon,130,65,60,65.0,water,,1,0,03/01/2021 01:53 AM
+Heatmor,https://www.serebii.net/pokedex-swsh/icon/631.png,631,"['Gluttony', 'Flash Fire', 'White Smoke']",58.0,Anteater Pokémon,85,97,66,65.0,fire,,5 Unova,0,07/14/2020 09:37 AM
+Tentacruel,https://www.serebii.net/pokedex-swsh/icon/073.png,73,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",55.0,Jellyfish Pokémon,80,70,65,100.0,water,poison,1,0,09/03/2020 05:38 PM
+Heatran,https://www.serebii.net/pokedex-swsh/icon/485.png,485,"['Flash Fire', 'Flame Body']",430.0,Lava Dome Pokémon,91,90,106,77.0,fire,steel,4 Sinnoh,1,09/23/2020 09:32 AM
+Igglybuff,https://www.serebii.net/pokedex-swsh/icon/174.png,174,"['Cute Charm', 'Competitive', 'Friend Guard']",1.0,Balloon Pokémon,90,30,15,15.0,normal,fairy,2 Johto,0,01/02/2021 05:08 AM
+Krabby,https://www.serebii.net/pokedex-swsh/icon/098.png,98,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",6.5,River Crab Pokémon,30,105,90,50.0,water,,1,0,03/07/2021 09:57 AM
+Dedenne,https://www.serebii.net/pokedex-swsh/icon/702.png,702,"['Cheek Pouch', 'Pickup', 'Plus']",2.2,Antenna Pokémon,67,58,57,101.0,electric,fairy,6,0,10/08/2021 08:44 AM
+Heatmor,https://www.serebii.net/pokedex-swsh/icon/631.png,631,"['Gluttony', 'Flash Fire', 'White Smoke']",58.0,Anteater Pokémon,85,97,66,65.0,fire,,5 Unova,0,12/28/2021 09:06 AM
+Krabby,https://www.serebii.net/pokedex-swsh/icon/098.png,98,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",6.5,River Crab Pokémon,30,105,90,50.0,water,,1,0,02/23/2021 05:12 AM
+Pichu,https://www.serebii.net/pokedex-swsh/icon/172.png,172,"['Static', 'Lightningrod']",2.0,Tiny Mouse Pokémon,20,40,15,60.0,electric,,2 Johto,0,03/14/2020 03:36 PM
+Golurk,https://www.serebii.net/pokedex-swsh/icon/623.png,623,"['Iron Fist', 'Klutz', 'No Guard']",330.0,Automaton Pokémon,89,124,80,55.0,ground,ghost,5 Unova,0,10/07/2022 07:58 PM
+Vivillon,https://www.serebii.net/pokedex-swsh/icon/666.png,666,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",17.0,Scale Pokémon,80,52,50,89.0,bug,flying,6,0,11/18/2022 07:03 AM
+Cobalion,https://www.serebii.net/pokedex-swsh/icon/638.png,638,['Justified'],250.0,Iron Will Pokémon,91,90,129,108.0,steel,fighting,5 Unova,1,08/25/2022 09:08 AM
+Mandibuzz,https://www.serebii.net/pokedex-swsh/icon/630.png,630,"['Big Pecks', 'Overcoat', 'Weak Armor']",39.5,Bone Vulture Pokémon,110,65,105,80.0,dark,flying,5 Unova,0,06/28/2021 07:43 PM
+Leafeon,https://www.serebii.net/pokedex-swsh/icon/470.png,470,"['Leaf Guard', 'Chlorophyll']",25.5,Verdant Pokémon,65,110,130,95.0,grass,,4 Sinnoh,0,09/17/2021 04:41 AM
+Mandibuzz,https://www.serebii.net/pokedex-swsh/icon/630.png,630,"['Big Pecks', 'Overcoat', 'Weak Armor']",39.5,Bone Vulture Pokémon,110,65,105,80.0,dark,flying,5 Unova,0,06/26/2021 02:37 PM
+Togetic,https://www.serebii.net/pokedex-swsh/icon/176.png,176,"['Hustle', 'Serene Grace', 'Super Luck']",3.2,Happiness Pokémon,55,40,85,40.0,fairy,flying,2 Johto,0,10/06/2022 06:38 AM
+Ursaring,https://www.serebii.net/pokedex-swsh/icon/217.png,217,"['Guts', 'Quick Feet', 'Unnerve']",125.8,Hibernator Pokémon,90,130,75,55.0,normal,,2 Johto,0,01/11/2022 03:21 AM
+Oshawott,https://www.serebii.net/pokedex-swsh/icon/501.png,501,"['Torrent', 'Shell Armor']",5.9,Sea Otter Pokémon,55,55,45,45.0,water,,5 Unova,0,01/19/2020 08:28 AM
+Cascoon,https://www.serebii.net/pokedex-swsh/icon/268.png,268,['Shed Skin'],11.5,Cocoon Pokémon,50,35,55,15.0,bug,,3,0,02/19/2021 11:55 AM
+Sunflora,https://www.serebii.net/pokedex-swsh/icon/192.png,192,"['Chlorophyll', 'Solar Power', 'Early Bird']",8.5,Sun Pokémon,75,75,55,30.0,grass,,2 Johto,0,02/13/2022 08:09 PM
+Zubat,https://www.serebii.net/pokedex-swsh/icon/041.png,41,"['Inner Focus', 'Infiltrator']",7.5,Bat Pokémon,40,45,35,,poison,flying,1,0,08/30/2021 10:26 PM
+Oshawott,https://www.serebii.net/pokedex-swsh/icon/501.png,501,"['Torrent', 'Shell Armor']",5.9,Sea Otter Pokémon,55,55,45,,water,,5 Unova,0,11/05/2021 03:45 PM
+Magby,https://www.serebii.net/pokedex-swsh/icon/240.png,240,"['Flame Body', 'Vital Spirit']",21.4,Live Coal Pokémon,45,75,37,,fire,,2 Johto,0,09/18/2021 06:48 PM
+Haxorus,https://www.serebii.net/pokedex-swsh/icon/612.png,612,"['Rivalry', 'Mold Breaker', 'Unnerve']",105.5,Axe Jaw Pokémon,76,147,90,97.0,dragon,,5 Unova,0,04/12/2021 04:59 PM
+Wimpod,https://www.serebii.net/pokedex-swsh/icon/767.png,767,['Wimp Out'],12.0,Turn Tail Pokémon,25,35,40,80.0,bug,water,7,0,07/27/2021 04:04 PM
